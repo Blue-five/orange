@@ -1,2 +1,2 @@
 # orange
-Fruit
+Fruity
